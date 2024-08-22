@@ -23,6 +23,6 @@ Panora Chatbot is an AI chatbot, a virtual assistant for the open source unified
 ## Developers
 
 Frontend: [Maisha Supritee Chowdhury](https://github.com/maishaSupritee)\
-Backend: [Evan Shoemaker](https://github.com/Colexeco)
-Authentication: [Valentina Solis](https://github.com/Valentina-Solis)
+Backend: [Evan Shoemaker](https://github.com/Colexeco)\
+Authentication: [Valentina Solis](https://github.com/Valentina-Solis)\
 Deployment: Chandolu Sravya
